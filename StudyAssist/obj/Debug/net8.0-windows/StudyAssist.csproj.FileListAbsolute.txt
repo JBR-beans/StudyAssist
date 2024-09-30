@@ -5,11 +5,13 @@ D:\CodeRepo\StudyAssist_Solution\StudyAssist\bin\Debug\net8.0-windows\StudyAssis
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\bin\Debug\net8.0-windows\StudyAssist.pdb
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.AssistTimer.resources
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.frmMain.resources
+D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.Manager_AssistTimer.resources
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.csproj.GenerateResource.cache
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.GeneratedMSBuildEditorConfig.editorconfig
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.AssemblyInfoInputs.cache
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.AssemblyInfo.cs
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.csproj.CoreCompileInputs.cache
+D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.sourcelink.json
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.dll
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\refint\StudyAssist.dll
 D:\CodeRepo\StudyAssist_Solution\StudyAssist\obj\Debug\net8.0-windows\StudyAssist.pdb

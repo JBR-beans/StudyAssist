@@ -35,6 +35,7 @@
 			timer = new System.Windows.Forms.Timer(components);
 			txtMemo = new TextBox();
 			lblMemo = new Label();
+			chxSelectTimer = new CheckBox();
 			SuspendLayout();
 			// 
 			// btnStartTimer
@@ -60,11 +61,12 @@
 			// lblTimeElapsed
 			// 
 			lblTimeElapsed.AutoSize = true;
-			lblTimeElapsed.Location = new Point(3, 2);
+			lblTimeElapsed.Location = new Point(151, 6);
 			lblTimeElapsed.Name = "lblTimeElapsed";
 			lblTimeElapsed.Size = new Size(49, 15);
 			lblTimeElapsed.TabIndex = 2;
 			lblTimeElapsed.Text = "00:00:00";
+			lblTimeElapsed.Click += lblTimeElapsed_Click;
 			// 
 			// timer
 			// 
@@ -85,18 +87,27 @@
 			// lblMemo
 			// 
 			lblMemo.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-			lblMemo.AutoSize = true;
-			lblMemo.Location = new Point(3, 29);
+			lblMemo.Location = new Point(3, 27);
 			lblMemo.Name = "lblMemo";
-			lblMemo.Size = new Size(117, 15);
+			lblMemo.Size = new Size(256, 42);
 			lblMemo.TabIndex = 4;
-			lblMemo.Text = "Click to add memo...";
+			lblMemo.Text = "Add memo...";
 			lblMemo.Click += EditMemo;
+			// 
+			// chxSelectTimer
+			// 
+			chxSelectTimer.AutoSize = true;
+			chxSelectTimer.Location = new Point(3, 3);
+			chxSelectTimer.Name = "chxSelectTimer";
+			chxSelectTimer.Size = new Size(15, 14);
+			chxSelectTimer.TabIndex = 5;
+			chxSelectTimer.UseVisualStyleBackColor = true;
 			// 
 			// AssistTimer
 			// 
 			AutoScaleDimensions = new SizeF(7F, 15F);
 			AutoScaleMode = AutoScaleMode.Font;
+			Controls.Add(chxSelectTimer);
 			Controls.Add(lblMemo);
 			Controls.Add(txtMemo);
 			Controls.Add(lblTimeElapsed);
@@ -118,5 +129,6 @@
 		private System.Windows.Forms.Timer timer;
 		private TextBox txtMemo;
 		private Label lblMemo;
+		private CheckBox chxSelectTimer;
 	}
 }
