@@ -36,11 +36,12 @@
 			txtMemo = new TextBox();
 			lblMemo = new Label();
 			chxSelectTimer = new CheckBox();
+			button1 = new Button();
 			SuspendLayout();
 			// 
 			// btnStartTimer
 			// 
-			btnStartTimer.Location = new Point(206, 2);
+			btnStartTimer.Location = new Point(79, 3);
 			btnStartTimer.Margin = new Padding(3, 2, 3, 2);
 			btnStartTimer.Name = "btnStartTimer";
 			btnStartTimer.Size = new Size(53, 22);
@@ -50,7 +51,7 @@
 			// 
 			// btnPauseTimer
 			// 
-			btnPauseTimer.Location = new Point(206, 2);
+			btnPauseTimer.Location = new Point(79, 2);
 			btnPauseTimer.Margin = new Padding(3, 2, 3, 2);
 			btnPauseTimer.Name = "btnPauseTimer";
 			btnPauseTimer.Size = new Size(53, 22);
@@ -61,7 +62,7 @@
 			// lblTimeElapsed
 			// 
 			lblTimeElapsed.AutoSize = true;
-			lblTimeElapsed.Location = new Point(151, 6);
+			lblTimeElapsed.Location = new Point(24, 2);
 			lblTimeElapsed.Name = "lblTimeElapsed";
 			lblTimeElapsed.Size = new Size(49, 15);
 			lblTimeElapsed.TabIndex = 2;
@@ -103,10 +104,20 @@
 			chxSelectTimer.TabIndex = 5;
 			chxSelectTimer.UseVisualStyleBackColor = true;
 			// 
+			// button1
+			// 
+			button1.Location = new Point(167, 3);
+			button1.Name = "button1";
+			button1.Size = new Size(75, 23);
+			button1.TabIndex = 6;
+			button1.Text = "button1";
+			button1.UseVisualStyleBackColor = true;
+			// 
 			// AssistTimer
 			// 
 			AutoScaleDimensions = new SizeF(7F, 15F);
 			AutoScaleMode = AutoScaleMode.Font;
+			Controls.Add(button1);
 			Controls.Add(chxSelectTimer);
 			Controls.Add(lblMemo);
 			Controls.Add(txtMemo);
@@ -130,5 +141,6 @@
 		private TextBox txtMemo;
 		private Label lblMemo;
 		private CheckBox chxSelectTimer;
+		private Button button1;
 	}
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeRepo\\StudyAssist_Solution\\StudyAssist\\StudyAssist.csproj": {}
+    "C:\\Users\\julie\\Source\\Repos\\StudyAssist\\StudyAssist\\StudyAssist.csproj": {}
   },
   "projects": {
-    "D:\\CodeRepo\\StudyAssist_Solution\\StudyAssist\\StudyAssist.csproj": {
+    "C:\\Users\\julie\\Source\\Repos\\StudyAssist\\StudyAssist\\StudyAssist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeRepo\\StudyAssist_Solution\\StudyAssist\\StudyAssist.csproj",
+        "projectUniqueName": "C:\\Users\\julie\\Source\\Repos\\StudyAssist\\StudyAssist\\StudyAssist.csproj",
         "projectName": "StudyAssist",
-        "projectPath": "D:\\CodeRepo\\StudyAssist_Solution\\StudyAssist\\StudyAssist.csproj",
+        "projectPath": "C:\\Users\\julie\\Source\\Repos\\StudyAssist\\StudyAssist\\StudyAssist.csproj",
         "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeRepo\\StudyAssist_Solution\\StudyAssist\\obj\\",
+        "outputPath": "C:\\Users\\julie\\Source\\Repos\\StudyAssist\\StudyAssist\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudyAssist
-build_property.ProjectDir = D:\CodeRepo\StudyAssist_Solution\StudyAssist\
+build_property.ProjectDir = C:\Users\julie\Source\Repos\StudyAssist\StudyAssist\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
